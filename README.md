@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 - 👋 Hi, I’m @ggpio18<br>- 👀 I’m interested in ...<br>- 🌱 I’m currently learning ...<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ...<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: ...
+- "Mkae stuf even if it bad especially if its bad"
 - https://bento.me/pio-aranza
 ## 🌐 Socials:
 
