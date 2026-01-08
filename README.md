@@ -1,6 +1,6 @@
 <img width="1500" height="500" alt="header" src="https://github.com/user-attachments/assets/10ea4b21-6afa-44ba-8062-a2099539a9ea" />
 
-https://app.daily.dev/ggpio18
+
 # 💫 About Me:
 - 👋 Hi, I’m @ggpio18<br>- 👀 I’m interested in ...<br>- 🌱 I’m currently learning ...<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ...<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: ...
 - "Mkae stuf even if it bad especially if its bad"
